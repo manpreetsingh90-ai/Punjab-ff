@@ -1,0 +1,8 @@
+{
+  "name": "Free Fire Punjab",
+  "description": "A high-octane top-down survival shooter with a shrinking safe zone. Battle enemies and survive the storm.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
